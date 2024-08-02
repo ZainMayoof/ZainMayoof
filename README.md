@@ -19,4 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainmayoof&show_icons=true&locale=en&layout=compact" alt="zainmayoof" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainmayoof&show_icons=true&locale=en" alt="zainmayoof" /></p>
-![4c8da6b945b3d8a8a2d095bd9aa50514](https://github.com/user-attachments/assets/a10a4614-cffe-4a0e-8efc-4ec621f1451f)
